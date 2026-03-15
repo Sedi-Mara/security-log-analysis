@@ -1,0 +1,8 @@
+login_id,username,login_time,login_date,country,success
+1,jdoe,17:30,2022-05-08,USA,1
+2,asmith,19:12,2022-05-08,MEXICO,0
+3,bwilliams,21:05,2022-05-09,CANADA,0
+4,mmartinez,14:10,2022-05-09,MEXICO,1
+5,jchen,22:40,2022-05-09,GERMANY,0
+6,rpatel,09:20,2022-05-08,MEXICO,1
+7,akhan,18:45,2022-05-09,BRAZIL,0
